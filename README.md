@@ -1,1 +1,2 @@
-We have uploaded a image zip file 'adr_test.zip' for testing and 'adr_train.zip' for training for image and corresponding text csv file for training and testing.
+This is the MMADE Dataset used in the paper "Enhancing Adverse Drug Event Detection with Multimodal Dataset: Corpus Creation and Model Development"
+We have uploaded a complete dataset on AY027/MMADE
